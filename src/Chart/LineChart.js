@@ -54,9 +54,9 @@ const LineChart = () => {
 					value.map((data) => {
 						let categories1 = [];
 						let seriesData = [];
-						// console.log("data.bindings", data.bindings);
+
+						// Get categories(yAxis) & seriesData (xAxis)
 						data.bindings.map((binding) => {
-							// console.log("binding", binding);
 							categories1.push(binding.Year.value);
 							seriesData.push(Number(binding.Humidity.value));
 							return null;
@@ -65,6 +65,8 @@ const LineChart = () => {
 							name: data.bindings[0].City.value,
 							data: seriesData,
 						};
+
+						// update State of xAxis & yAxis
 						setDataLineChart((prevState) => ({
 							...prevState,
 							xAxis: {

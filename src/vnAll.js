@@ -340,7 +340,7 @@ export const vnAll = {
 				"woe-label": "Khanh Hoa, VN, Vietnam",
 				"postal-code": "KH",
 				type: "T?nh",
-				name: "KhÃ¡nh HÃ²a",
+				name: "Khánh Hoà",
 			},
 			geometry: {
 				type: "MultiPolygon",
@@ -480,7 +480,7 @@ export const vnAll = {
 				"woe-label": "Tien Giang, VN, Vietnam",
 				"postal-code": "TG",
 				type: "T?nh",
-				name: "Ti?n Giang",
+				name: "Tiền Giang",
 			},
 			geometry: {
 				type: "MultiPolygon",
@@ -560,7 +560,7 @@ export const vnAll = {
 				"woe-label": "Ba Ria-Vung Tau, VN, Vietnam",
 				"postal-code": "BV",
 				type: "T?nh",
-				name: "BÃ  R?a - V?ng TÃ u",
+				name: "Bà Rịa - Vũng Tàu",
 			},
 			geometry: {
 				type: "MultiPolygon",
@@ -645,7 +645,7 @@ export const vnAll = {
 				"woe-label": "Binh Thuan, VN, Vietnam",
 				"postal-code": "BU",
 				type: "T?nh",
-				name: "BÃ¬nh Thu?n",
+				name: "Bình Thuận",
 			},
 			geometry: {
 				type: "MultiPolygon",
@@ -745,7 +745,7 @@ export const vnAll = {
 				"woe-label": "Ho Chi Minh, VN, Vietnam",
 				"postal-code": "HC",
 				type: "ThÃ nh ph? tr?c thu?c t?nh",
-				name: "H? ChÃ­ Minh city",
+				name: "TP.Hồ Chí Minh ",
 			},
 			geometry: {
 				type: "MultiPolygon",
@@ -869,7 +869,7 @@ export const vnAll = {
 				"woe-label": "Ben Tre, VN, Vietnam",
 				"postal-code": "BR",
 				type: "T?nh",
-				name: "B?n Tre",
+				name: "Bến Tre",
 			},
 			geometry: {
 				type: "MultiPolygon",
@@ -956,7 +956,7 @@ export const vnAll = {
 				"woe-label": "Soc Trang, VN, Vietnam",
 				"postal-code": "ST",
 				type: "T?nh",
-				name: "SÃ³c Tr?ng",
+				name: "Sóc Trăng",
 			},
 			geometry: {
 				type: "MultiPolygon",
@@ -1039,7 +1039,7 @@ export const vnAll = {
 				"woe-label": "Phu Tho, VN, Vietnam",
 				"postal-code": "PT",
 				type: "T?nh",
-				name: "PhÃº Th?",
+				name: "Phú Thọ",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1107,7 +1107,7 @@ export const vnAll = {
 				"woe-label": "Yen Bai, VN, Vietnam",
 				"postal-code": "YB",
 				type: "T?nh",
-				name: "YÃªn BÃ¡i",
+				name: "Yên Bái",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1195,7 +1195,7 @@ export const vnAll = {
 				"woe-label": "Hai Duong, VN, Vietnam",
 				"postal-code": "HD",
 				type: "T?nh",
-				name: "H?i D??ng",
+				name: "Hải Dương",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1260,7 +1260,7 @@ export const vnAll = {
 				"woe-label": "Bac Ninh, VN, Vietnam",
 				"postal-code": "BN",
 				type: "T?nh",
-				name: "B?c Ninh",
+				name: "Bắc Ninh",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1308,7 +1308,7 @@ export const vnAll = {
 				"woe-label": "Hung Yen, VN, Vietnam",
 				"postal-code": null,
 				type: "Region",
-				name: "??ng B?ng SÃ´ng H?ng",
+				name: "Hưng Yên",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1364,7 +1364,7 @@ export const vnAll = {
 				"woe-label": "Ninh Binh, VN, Vietnam",
 				"postal-code": "NB",
 				type: "T?nh",
-				name: "Ninh BÃ¬nh",
+				name: "Ninh Bình",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1423,7 +1423,7 @@ export const vnAll = {
 				"woe-label": "Ha Nam, VN, Vietnam",
 				"postal-code": "HM",
 				type: "T?nh",
-				name: "HÃ  Nam",
+				name: "Hà Nam",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1477,7 +1477,7 @@ export const vnAll = {
 				"woe-label": "Hoa Binh, VN, Vietnam",
 				"postal-code": "HO",
 				type: "T?nh",
-				name: "HÃ²a BÃ¬nh",
+				name: "Hoà Bình",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1557,7 +1557,7 @@ export const vnAll = {
 				"woe-label": "Vinh Phuc, VN, Vietnam",
 				"postal-code": "VC",
 				type: "T?nh",
-				name: "V?nh PhÃºc",
+				name: "Vĩnh Phúc",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1610,7 +1610,7 @@ export const vnAll = {
 				"woe-label": null,
 				"postal-code": null,
 				type: "T?nh",
-				name: "Ha Noi",
+				name: "Hà Nội",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1688,7 +1688,7 @@ export const vnAll = {
 				"woe-label": "Bac Giang, VN, Vietnam",
 				"postal-code": "BG",
 				type: "T?nh",
-				name: "B?c Giang",
+				name: "Bắc Giang",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1764,7 +1764,7 @@ export const vnAll = {
 				"woe-label": "Thai Binh, VN, Vietnam",
 				"postal-code": "TB",
 				type: "T?nh",
-				name: "ThÃ¡i BÃ¬nh",
+				name: "Thái Bình",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1831,7 +1831,7 @@ export const vnAll = {
 				"woe-label": "Lam Dong, VN, Vietnam",
 				"postal-code": "LD",
 				type: "T?nh",
-				name: "LÃ¢m ??ng",
+				name: "Lâm Đồng",
 			},
 			geometry: {
 				type: "Polygon",
@@ -1931,7 +1931,7 @@ export const vnAll = {
 				"woe-label": "Bin Phuoc, VN, Vietnam",
 				"postal-code": "BP",
 				type: "T?nh",
-				name: "BÃ¬nh Ph??c",
+				name: "Bình Phước",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2014,7 +2014,7 @@ export const vnAll = {
 				"woe-label": "Phu Yen, VN, Vietnam",
 				"postal-code": "PY",
 				type: "T?nh",
-				name: "PhÃº YÃªn",
+				name: "Phú Yên",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2099,7 +2099,7 @@ export const vnAll = {
 				"woe-label": "Binh Dinh, VN, Vietnam",
 				"postal-code": "BD",
 				type: "T?nh",
-				name: "BÃ¬nh ??nh",
+				name: "Bình Định",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2266,7 +2266,7 @@ export const vnAll = {
 				"woe-label": "Quang Ngai, VN, Vietnam",
 				"postal-code": "QG",
 				type: "T?nh",
-				name: "Qu?ng NgÃ£i",
+				name: "Quảng Ngãi",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2334,7 +2334,7 @@ export const vnAll = {
 				"woe-label": "Dong Nai, VN, Vietnam",
 				"postal-code": null,
 				type: "Region",
-				name: "?Ã´ng Nam B?",
+				name: "Đồng Nai",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2426,7 +2426,7 @@ export const vnAll = {
 				"woe-label": "Dong Thap, VN, Vietnam",
 				"postal-code": "DT",
 				type: "T?nh",
-				name: "Ã?ng ThÃ¡p",
+				name: "Đồng Tháp",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2572,7 +2572,7 @@ export const vnAll = {
 				"woe-label": "Hai Phong, VN, Vietnam",
 				"postal-code": null,
 				type: "ThÃ nh",
-				name: "H?i PhÃ²ng",
+				name: "Hải Phòng",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2636,7 +2636,7 @@ export const vnAll = {
 				"woe-label": "Hau Giang, VN, Vietnam",
 				"postal-code": null,
 				type: "Region",
-				name: "Hau Giang",
+				name: "Hậu Giang",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2690,7 +2690,7 @@ export const vnAll = {
 				"woe-label": "Bac Lieu, VN, Vietnam",
 				"postal-code": "BL",
 				type: "T?nh",
-				name: "B?c LiÃªu",
+				name: "Bạc Liêu",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2752,7 +2752,7 @@ export const vnAll = {
 				"woe-label": "Vinh Long, VN, Vietnam",
 				"postal-code": "VL",
 				type: "T?nh",
-				name: "V?nh Long",
+				name: "Vĩnh Long",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2811,7 +2811,7 @@ export const vnAll = {
 				"woe-label": "Tay Ninh, VN, Vietnam",
 				"postal-code": "TN",
 				type: "T?nh",
-				name: "TÃ¢y Ninh",
+				name: "Tây Ninh",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2886,7 +2886,7 @@ export const vnAll = {
 				"woe-label": "Thai Nguyen, VN, Vietnam",
 				"postal-code": "TY",
 				type: "T?nh",
-				name: "ThÃ¡i NguyÃªn",
+				name: "Thái Nguyên",
 			},
 			geometry: {
 				type: "Polygon",
@@ -2955,7 +2955,7 @@ export const vnAll = {
 				"woe-label": "Lai Chau, VN, Vietnam",
 				"postal-code": "LI",
 				type: "T?nh",
-				name: "Lai Chau",
+				name: "Lai Châu",
 			},
 			geometry: {
 				type: "Polygon",
@@ -3059,7 +3059,7 @@ export const vnAll = {
 				"woe-label": "Son La, VN, Vietnam",
 				"postal-code": null,
 				type: "Province",
-				name: "Son La",
+				name: "Sơn La",
 			},
 			geometry: {
 				type: "Polygon",
@@ -3181,7 +3181,7 @@ export const vnAll = {
 				"woe-label": "Ha Giang, VN, Vietnam",
 				"postal-code": "HG",
 				type: "T?nh",
-				name: "HÃ  Giang",
+				name: "Hà Giang",
 			},
 			geometry: {
 				type: "Polygon",
@@ -3275,7 +3275,7 @@ export const vnAll = {
 				"woe-label": "Nam Dinh, VN, Vietnam",
 				"postal-code": "ND",
 				type: "T?nh",
-				name: "Nam ??nh",
+				name: "Nam Định",
 			},
 			geometry: {
 				type: "Polygon",
@@ -3340,7 +3340,7 @@ export const vnAll = {
 				"woe-label": "Ha Tinh, VN, Vietnam",
 				"postal-code": null,
 				type: "Province",
-				name: "Ha Tinh",
+				name: "Hà Tĩnh",
 			},
 			geometry: {
 				type: "Polygon",
@@ -3433,7 +3433,7 @@ export const vnAll = {
 				"woe-label": "Nghe An, VN, Vietnam",
 				"postal-code": "NA",
 				type: "T?nh",
-				name: "Ngh? An",
+				name: "Nghệ An",
 			},
 			geometry: {
 				type: "Polygon",
@@ -3563,7 +3563,7 @@ export const vnAll = {
 				"woe-label": "Quang Binh, VN, Vietnam",
 				"postal-code": "QB",
 				type: "T?nh",
-				name: "Qu?ng BÃ¬nh",
+				name: "Quảng Bình",
 			},
 			geometry: {
 				type: "Polygon",
@@ -3652,7 +3652,7 @@ export const vnAll = {
 				"woe-label": "Dak Lak, VN, Vietnam",
 				"postal-code": null,
 				type: "Province",
-				name: "Dak Lak",
+				name: "Đắk Lắk",
 			},
 			geometry: {
 				type: "Polygon",
@@ -3743,7 +3743,7 @@ export const vnAll = {
 				"woe-label": "Ninh Thuan, VN, Vietnam",
 				"postal-code": "NT",
 				type: "T?nh",
-				name: "Ninh Thu?n",
+				name: "Ninh Thuận",
 			},
 			geometry: {
 				type: "Polygon",
@@ -3813,7 +3813,7 @@ export const vnAll = {
 				"woe-label": "Dac Nong, VN, Vietnam",
 				"postal-code": null,
 				type: "Province",
-				name: "??k NÃ´ng",
+				name: "Đắk Nông",
 			},
 			geometry: {
 				type: "Polygon",
@@ -3991,7 +3991,7 @@ export const vnAll = {
 				"woe-label": "Quang Nam, VN, Vietnam",
 				"postal-code": null,
 				type: null,
-				name: "QuÃ ng Nam",
+				name: "Quảng Nam",
 			},
 			geometry: {
 				type: "Polygon",
@@ -4090,7 +4090,7 @@ export const vnAll = {
 				"woe-label": "Quang Tri, VN, Vietnam",
 				"postal-code": "QT",
 				type: "T?nh",
-				name: "Qu?ng Tr?",
+				name: "Quảng Trị",
 			},
 			geometry: {
 				type: "Polygon",
@@ -4161,7 +4161,7 @@ export const vnAll = {
 				"woe-label": "Thura Thien-Hue, VN, Vietnam",
 				"postal-code": "TT",
 				type: "T?nh",
-				name: "Th?a ThiÃªn - Hu?",
+				name: "Thừa Thiên Huế",
 			},
 			geometry: {
 				type: "Polygon",
@@ -4251,7 +4251,7 @@ export const vnAll = {
 				"woe-label": "Da Nang, VN, Vietnam",
 				"postal-code": "DA",
 				type: "ThÃ nh ph? tr?c thu?c t?nh",
-				name: "?Ã  N?ng",
+				name: "Đà Nẵng",
 			},
 			geometry: {
 				type: "Polygon",
@@ -4377,7 +4377,7 @@ export const vnAll = {
 				"woe-label": "Ca Mau, VN, Vietnam",
 				"postal-code": "CM",
 				type: "T?nh",
-				name: "CÃ  Mau",
+				name: "Cà Mau",
 			},
 			geometry: {
 				type: "Polygon",
@@ -4449,7 +4449,7 @@ export const vnAll = {
 				"woe-label": "Tra Vinh, VN, Vietnam",
 				"postal-code": "TV",
 				type: "T?nh",
-				name: "TrÃ  Vinh",
+				name: "Trà Vinh",
 			},
 			geometry: {
 				type: "Polygon",
@@ -4504,7 +4504,7 @@ export const vnAll = {
 				"woe-label": "Cao Bang, VN, Vietnam",
 				"postal-code": "CB",
 				type: "T?nh",
-				name: "Cao B?ng",
+				name: "Cao Bằng",
 			},
 			geometry: {
 				type: "Polygon",
@@ -4595,7 +4595,7 @@ export const vnAll = {
 				"woe-label": "Kien Giang, VN, Vietnam",
 				"postal-code": "KG",
 				type: "T?nh",
-				name: "KiÃªn Giang",
+				name: "Kiên Giang",
 			},
 			geometry: {
 				type: "MultiPolygon",
@@ -4698,7 +4698,7 @@ export const vnAll = {
 				"woe-label": "Lao Cai, VN, Vietnam",
 				"postal-code": "LO",
 				type: "T?nh",
-				name: "LÃ o Cai",
+				name: "Lào Cai",
 			},
 			geometry: {
 				type: "Polygon",
@@ -4797,7 +4797,7 @@ export const vnAll = {
 				"woe-label": "Dien Bien, VN, Vietnam",
 				"postal-code": "DB",
 				type: "T?nh",
-				name: "?i?n BiÃªn",
+				name: "Điện Biên",
 			},
 			geometry: {
 				type: "Polygon",
@@ -5025,7 +5025,7 @@ export const vnAll = {
 				"woe-label": "Thanh Hoa, VN, Vietnam",
 				"postal-code": "TH",
 				type: "T?nh",
-				name: "Thanh HÃ³a",
+				name: "Thanh Hoá",
 			},
 			geometry: {
 				type: "Polygon",
@@ -5132,7 +5132,7 @@ export const vnAll = {
 				"woe-label": "Bac Kan, VN, Vietnam",
 				"postal-code": null,
 				type: "Region",
-				name: "?Ã´ng B?c",
+				name: "Bắc Kạn",
 			},
 			geometry: {
 				type: "Polygon",
@@ -5206,7 +5206,7 @@ export const vnAll = {
 				"woe-label": "Tuyen Quang, VN, Vietnam",
 				"postal-code": "TQ",
 				type: "T?nh",
-				name: "TuyÃªn Quang",
+				name: "Tuyên Quang",
 			},
 			geometry: {
 				type: "Polygon",
@@ -5280,7 +5280,7 @@ export const vnAll = {
 				"woe-label": "Bin Duong, VN, Vietnam",
 				"postal-code": "BI",
 				type: "T?nh",
-				name: "BÃ¬nh D??ng",
+				name: "Bình Dương",
 			},
 			geometry: {
 				type: "Polygon",
@@ -5351,7 +5351,7 @@ export const vnAll = {
 				"woe-label": "Can Tho, VN, Vietnam",
 				"postal-code": null,
 				type: "T?nh",
-				name: "Can Tho",
+				name: "Cần Thơ",
 			},
 			geometry: {
 				type: "Polygon",

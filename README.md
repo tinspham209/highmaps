@@ -1,14 +1,25 @@
-# Mini Project: HighMaps with HighChart
+# Mini Project: HighChart
 
 ## Date:
 
 ### Functions
+
+Play Around with HighChart
+
+- LineChart
+- HighMaps
 
 ### Screenshot
 
 - <img src="" alt=""/>
 
 ### Tech-Stack
+
+- React
+- axios
+- json-server
+- HighChart
+- @highcharts/map-collection
 
 ### API Used
 
